@@ -5,7 +5,7 @@ function Login() {
     return (
         <>
             <h1>Login</h1>
-            <Button linkValue='/home' buttonValue='connexion'/>
+            <Button linkValue='/home'  buttonValue='connexion'/>
         </>
     );
 }
